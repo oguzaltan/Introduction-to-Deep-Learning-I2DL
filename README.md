@@ -1,5 +1,5 @@
 # Introduction to Deep Learning (IN2346)
-# Technical University Munich - WS 2024
+# Technical University of Munich - WS 2024
 
 ## 1. Python Setup
 
