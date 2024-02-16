@@ -1,4 +1,4 @@
-# Introduction to Deep Learning (IN2346)
+# Introduction to Deep Learning
 # Technical University of Munich - WS 2024
 
 [Course website](https://niessner.github.io/I2DL/)
